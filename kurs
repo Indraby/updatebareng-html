@@ -1,0 +1,8 @@
+<div id="div_chart_spot" align="center"></div>
+<script src="http://kursdollar.net/widget/widget.js"></script>
+<script>
+    v_widget_type='chart_spot';
+    v_width="100%";
+    v_height=300;
+    kdcom_chart(v_widget_type,v_width,v_height,'div_chart_spot');
+</script>
